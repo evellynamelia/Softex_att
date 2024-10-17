@@ -82,7 +82,7 @@ export default function App() {
   return (
     <div className="h-screen flex flex-col bg-zinc-900 text-zinc-200">
       <header className="p-4 flex justify-between items-center bg-zinc-800">
-        <h1 className="text-2xl font-bold">SoftexLab</h1>
+        <h1 className="text-2xl font-bold">Lab</h1>
         <div className="flex flex-col items-center flex-grow">
           <div className="relative w-500">
             <input
